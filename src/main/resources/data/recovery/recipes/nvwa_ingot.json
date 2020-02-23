@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "recovery:pangu_block"
+  },
+  "result": "recovery:nvwa_ingot",
+  "experience": 2,
+  "cookingtime": 200
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "pangu_ingot",
+  "ingredients": [
+    {
+      "item": "recovery:pangu_block"
+    }
+  ],
+  "result": {
+    "item": "recovery:pangu_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "hundun_ingot",
+  "ingredients": [
+    {
+      "item": "recovery:hundun_block"
+    }
+  ],
+  "result": {
+    "item": "recovery:hundun_ingot",
+    "count": 9
+  }
+}

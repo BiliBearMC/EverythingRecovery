@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "nvwa_ingot",
+  "ingredients": [
+    {
+      "item": "recovery:nvwa_block"
+    }
+  ],
+  "result": {
+    "item": "recovery:nvwa_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "recovery:block/pangu_block" }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "recovery:nvwa_ingot"
+    }
+  },
+  "result": {
+    "item": "recovery:nvwa_block"
+  }
+}

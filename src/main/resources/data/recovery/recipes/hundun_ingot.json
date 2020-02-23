@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:dragon_breath"
+  },
+  "result": "recovery:hundun_ingot",
+  "experience": 2,
+  "cookingtime": 200
+}
