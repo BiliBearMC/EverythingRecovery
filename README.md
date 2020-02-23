@@ -1,6 +1,6 @@
 # Revival of everything
 
-Welcome to my GitHub, which was created on February 22, 2020, to share my story with minecraft and my experience in minecraft mod development.(So on the other hand, if you want to see professional programming source files, you can leave now)
+Welcome to my GitHub, which was created on February 22, 2020, to share my story with minecraft and my experience in minecraft mod development(So on the other hand, if you want to see professional programming source files, you can leave now).Make progress with more friends who just started to learn how to make mod, and hope to get the guidance of professionals.
 
 As a player who has played minecraft for 8 years, I didn't really get to know this game until 2019. When I was in junior high school, I first came into contact with this game. 
 
