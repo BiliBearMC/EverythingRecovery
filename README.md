@@ -1,5 +1,4 @@
-# EverythingRecovery
-MinecraftMod
+# Revival of everything
 
 Welcome to my GitHub, which was created on February 22, 2020, to share my story with minecraft and my experience in minecraft mod development.(So on the other hand, if you want to see professional programming source files, you can leave now)
 
